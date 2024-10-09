@@ -1,4 +1,4 @@
-# 由whatshub.top自动维护 202410091446
+# 由whatshub.top自动维护 202410092046
 payload:
   - IP-ASN,10111
   - IP-ASN,10206
@@ -211,7 +211,6 @@ payload:
   - IP-ASN,137804
   - IP-ASN,137805
   - IP-ASN,137806
-  - IP-ASN,137808
   - IP-ASN,137835
   - IP-ASN,137882
   - IP-ASN,137897
